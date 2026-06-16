@@ -94,3 +94,17 @@ Full Stack Engineer
 This repository serves as a project showcase and technical documentation portal.
 
 The production source code remains private while the project is under active development.
+
+
+
+# Current Development Status
+
+![Development Status](images/development_status.png)
+
+# Current Architecture
+
+![Architecture](images/current_architecture.png)
+
+# Resume Intelligence Pipeline
+
+![Pipeline](images/current_workflow.png)
