@@ -99,7 +99,7 @@ The production source code remains private while the project is under active dev
 
 ## Current Development Status
 
-![Development Status](image/development_status.png)
+![Development Status](image/Development_status.png)
 
 ## Current Architecture
 
