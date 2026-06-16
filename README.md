@@ -97,14 +97,14 @@ The production source code remains private while the project is under active dev
 
 
 
-# Current Development Status
+## Current Development Status
 
-![Development Status](images/development_status.png)
+![Development Status](image/development_status.png)
 
-# Current Architecture
+## Current Architecture
 
-![Architecture](images/current_architecture.png)
+![Architecture](image/current_architecture.png)
 
-# Resume Intelligence Pipeline
+## Resume Intelligence Pipeline
 
-![Pipeline](images/current_workflow.png)
+![Pipeline](image/current_workflow.png)
