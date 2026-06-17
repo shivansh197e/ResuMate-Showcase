@@ -61,7 +61,7 @@ to transform resumes into actionable career insights.
 
 Full project documentation:
 
-[ResuMate Overview](docs/ResuMate-Overview.pdf)
+[ResuMate Overview](docs/ResuMate-System-Design.pdf)
 
 ---
 
