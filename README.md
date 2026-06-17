@@ -53,7 +53,7 @@ to transform resumes into actionable career insights.
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/complete_architecture_diagram.png)
 
 ---
 
